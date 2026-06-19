@@ -1,0 +1,60 @@
+VOICE TO TEXT PROJECT REQUIREMENTS
+
+1. DOMAIN
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Natural Language Processing (NLP)
+- Speech Recognition
+
+2. OBJECTIVE
+- Convert human speech into written text automatically.
+
+3. FUNCTIONAL REQUIREMENTS
+- Accept audio input from microphone
+- Process speech input
+- Convert speech to text
+- Display text output
+- Save text into file
+- Optional multi-language support
+- Optional noise filtering
+
+4. SOFTWARE REQUIREMENTS
+- Python
+- SpeechRecognition library
+- PyAudio
+- TensorFlow (optional)
+- Visual Studio Code / Google Colab / Jupyter Notebook
+
+5. HARDWARE REQUIREMENTS
+- Laptop/Desktop
+- Microphone
+- Internet connection (optional)
+- Minimum 4GB RAM
+
+6. TECHNOLOGIES USED
+- Speech Recognition API
+- NLP
+- Audio Processing
+- Machine Learning
+
+7. MODULES
+- Audio Input Module
+- Speech Processing Module
+- Text Conversion Module
+- Output Display Module
+- Storage Module
+
+8. DATASETS (Optional)
+- Mozilla Common Voice
+- LibriSpeech
+
+9. EXTENSIONS
+- Real-time subtitles
+- Speech translation
+- Speaker identification
+- Lecture to notes conversion
+- AI summarization
+
+10. EXPECTED OUTPUT
+Input: Spoken voice
+Output: Converted text displayed on screen
